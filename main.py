@@ -9,8 +9,9 @@ from fonction import *
 import copy
 import os
 
+"""
 if not os.path.exists("trace"):
-    os.makedirs("trace")
+    os.makedirs("trace")"""
 
 
 def main():
